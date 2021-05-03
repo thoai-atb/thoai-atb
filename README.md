@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🎈 Thank you for reading this 🎈
 
 <!--
 **thoai-atb/thoai-atb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
